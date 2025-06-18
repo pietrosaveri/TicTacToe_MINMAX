@@ -6,6 +6,9 @@ This Python project is a Tic Tac Toe game with an AI opponent, designed using th
 
 The strong AI uses the full potential of the MinMax algorithm, making it virtually unbeatable, while the weaker AI limits its depth or makes suboptimal moves, giving the player a better chance of winning. This project demonstrates the use of AI algorithms to solve simple games and provides an introduction to game theory concepts like minimax.
 
+### Gameplay
+<img width="712" alt="Screenshot 2025-06-18 at 13 40 58" src="https://github.com/user-attachments/assets/77179af1-e685-4525-ae39-56877f501193" />
+
 ### Features
 
 - **Strong AI:** A virtually unbeatable opponent that plays optimally using the MinMax algorithm.
